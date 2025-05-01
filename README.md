@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaushal Sudhakar Toraskar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img src="![image](https://github.com/user-attachments/assets/2c91ebb0-918f-4198-958e-4f94d99ce0ee)
+" width="400px" align="right">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-kaushal&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-kaushal" /> </p>
 
 - 🌱 I’m currently learning **Java, Node JS**
